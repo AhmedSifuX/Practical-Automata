@@ -10,7 +10,9 @@ A brief description of what this project does and who it's for
 # Problem Descriptions
 ---
 ```Problem 1 – Simulate a DFA.```
+
 ```Problem 2 – Simulate a PDA that accepts balanced and nested strings.```
+
 ```Problem 3 – Simulate a Turing Machine that accepts strings of the form ww.```
 
 # How To Run
